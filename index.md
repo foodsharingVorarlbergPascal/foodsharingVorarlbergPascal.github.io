@@ -5,6 +5,8 @@ Lebensmittelverschwendung ein.
 
 Als Mitglied der Initiative foodsharing.at in Vorarlberg hast du die Möglichkeit, bei kooperierenden Betrieben unverkäufliche Lebensmittel abzuholen und diese zur festgelegten Zeit abzuholen. Was und wie viel das ist, ist unbekannt. Meistens ist es aber recht viel, das von geschickten Fahrradfahrern bei Kooperationen in Vorarlberg autofrei abgeholt werden kann. Wie du die Lebensmittel verwendest, ist dir überlassen, solange du sie nicht verkaufst oder eine Tauschware erwartest und dafür sorgst, dass sie von Menschen gegessen werden. Wer Mitglied werden möchte, muss vier Einführungen und ein Quiz bestehen. Danach kannst du selbst entscheiden, wann und wie oft du Abholungen durchführen möchtest. 
 
+- [🌱 Rollen der Mitglieder bei foodsharing](#-rollen-der-mitglieder-bei-foodsharing)
+
 Dieses Handbuch ist eine Einführung und ein Nachschlagewerk für alle Foodsavenden, die in Vorarlberg Abholungen durchführen oder machen wollen. 
 
 Es hilft dir zur Vorbereitung auf das Quiz, dient als Einführung und beinhaltet alle wichtigen Informationen, die für foodsharing in Vorarlberg wichtig sind.
