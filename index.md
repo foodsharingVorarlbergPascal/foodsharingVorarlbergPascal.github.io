@@ -2,8 +2,7 @@
 
 Wir setzen uns für mehr Wertschätzung von Lebensmitteln und gegen  
 Lebensmittelverschwendung ein.
-
-![](/2025-02-06%2012_19_50-.png)
+/
 
 Als Mitglied der Initiative foodsharing.at in Vorarlberg hast du die Möglichkeit, bei kooperierenden Betrieben unverkäufliche Lebensmittel abzuholen und diese zur festgelegten Zeit abzuholen. Was und wie viel das ist, ist unbekannt. Meistens ist es aber recht viel, das von geschickten Fahrradfahrern bei Kooperationen in Vorarlberg autofrei abgeholt werden kann. Wie du die Lebensmittel verwendest, ist dir überlassen, solange du sie nicht verkaufst oder eine Tauschware erwartest und dafür sorgst, dass sie von Menschen gegessen werden. Wer Mitglied werden möchte, muss vier Einführungen und ein Quiz bestehen. Danach kannst du selbst entscheiden, wann und wie oft du Abholungen durchführen möchtest. 
 
@@ -357,9 +356,23 @@ Wenn du einen Ausweis hast und an einer der Online-Hygieneschulungen in Österre
 
 # 🌱 Kleiner Webseiten-Guide
 
-- Die Plattform zeigt nur, was für die jeweilige Person relevant ist.
-- In der oberen Leiste findest du alles: die [Karte](https://foodsharing.at/karte) mit den Betrieben und offenen Kühlschränken, den Link zum [Wiki](https://wiki.foodsharing.de/) (unter "Hilfe nötig?" oder im Menü am Handy), die Team- und persönlichen [Nachrichten](https://foodsharing.at/msg), neue relevante Informationen (Glocke mit Anzahl der neuen Informationen) und vieles mehr.
-- Mit einem Klick auf das Logo links oben gelangst du zum [Dashboard](https://foodsharing.at/dashboard). Dort siehst du alle aktuellen, persönlichen Informationen wie Abholtermine, Termine zu Treffen und Hygieneschulungen sowie die neuesten Pinnwand- und Forenbeiträge.
+- Die Plattform zeigt nur, was für die dich relevant und ist. 
+- Die Oberste Leise wird immer angezeigt
+
+![](/top.svg)
+- (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
+- Bezirke
+- Gruppen
+- Betriebe
+- Essenskörbe
+- [Karte](https://foodsharing.at/karte) mit den Betrieben Fairteilern und offenen Kühlschränken
+- Hife: [Link zum Wiki](https://wiki.foodsharing.de/)
+- (2) Suche
+- (3) Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
+- (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen)
+- (5) Menü mit e-Mails und Profil und Einstellungen
+
+- Auf dem Dashboard siehst du alle aktuellen, persönlichen Informationen wie Abholtermine, Termine zu Treffen und Hygieneschulungen sowie die neuesten Pinnwand- und Forenbeiträge.
 - Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite, neue Betriebe werden dir nur per Glocke angezeigt. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
 - Einige Handy-Browser unterstützen Push-Benachrichtigungen, die du in den Profileinstellungen aktivieren kannst. So erhältst du Nachrichten sofort und kannst spontan einspringen.
 - Arbeitsgruppen (AG) sind Gruppen von Personen, die ein bestimmtes Thema rund um foodsharing bearbeiten.
