@@ -362,14 +362,14 @@ Die Plattform zeigt nur, was für die dich relevant und ist.
 ![Hier sollte ein Bild sein](/top.svg)
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
 - Bezirke
-- Gruppen
+- In Arbeitsgruppen (AG) werden bestimmte Themen rund um foodsharing bearbeiten.
 - Betriebe
-- Essenskörbe
+- Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel.
 - [Karte](https://foodsharing.at/karte) mit den Betrieben Fairteilern und offenen Kühlschränken
 - Hife: [Link zum Wiki](https://wiki.foodsharing.de/)
 - (2) Suche
 - (3) Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
-- (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen)
+- (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen). Z.B. neue Betriebe in deinen Bezirken
 - (5) Menü mit e-Mails und Profil und Einstellungen
 
 **Dashboard**
@@ -377,12 +377,11 @@ Die Plattform zeigt nur, was für die dich relevant und ist.
 
 - Auf dem Dashboard siehst du alle aktuellen, persönlichen Informationen
 - (1) Von Betriebsverantwortlichen Bestätigte Abholtermine
-- und unbestätigte Abholtermine
-- Termine zu Treffen und Hygieneschulungen sowie die neuesten Pinnwand- und Forenbeiträge.
-- Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite, neue Betriebe werden dir nur per Glocke angezeigt. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
+- (2) und unbestätigte Abholtermine
+- Termine z.B. Treffen, Hygieneschulungen ...
+- Die neuesten Pinnwand- und Forenbeiträge.
+- Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
 - Einige Handy-Browser unterstützen Push-Benachrichtigungen, die du in den Profileinstellungen aktivieren kannst. So erhältst du Nachrichten sofort und kannst spontan einspringen.
-- Arbeitsgruppen (AG) sind Gruppen von Personen, die ein bestimmtes Thema rund um foodsharing bearbeiten.
-- Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel.
 - Abstimmungen/Umfragen können von der Abstimmungs-AG erstellt werden, an denen alle teilnehmen können.
 - Termine können von den BOTs erstellt werden, bei denen alle eine Zu- oder Absage machen können.
 - Für AGs und Bezirke gibt es die Möglichkeit, Videokonferenzen zu organisieren (manchmal auch BBB oder Big Blue Button genannt).
