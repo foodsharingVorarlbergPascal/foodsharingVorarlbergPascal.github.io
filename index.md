@@ -356,10 +356,10 @@ Wenn du einen Ausweis hast und an einer der Online-Hygieneschulungen in Österre
 
 # 🌱 Kleiner Webseiten-Guide
 
-- Die Plattform zeigt nur, was für die dich relevant und ist. 
-- Die Oberste Leise wird immer angezeigt
+Die Plattform zeigt nur, was für die dich relevant und ist.   
+**Die Oberste Leise** wird immer angezeigt
 
-![](/top.svg)
+![Hier sollte ein Bild sein](/top.svg)
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
 - Bezirke
 - Gruppen
@@ -372,7 +372,13 @@ Wenn du einen Ausweis hast und an einer der Online-Hygieneschulungen in Österre
 - (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen)
 - (5) Menü mit e-Mails und Profil und Einstellungen
 
-- Auf dem Dashboard siehst du alle aktuellen, persönlichen Informationen wie Abholtermine, Termine zu Treffen und Hygieneschulungen sowie die neuesten Pinnwand- und Forenbeiträge.
+**Dashboard**
+![Hier sollte ein Bild sein](/Dashboard.svg)
+
+- Auf dem Dashboard siehst du alle aktuellen, persönlichen Informationen
+- (1) Von Betriebsverantwortlichen Bestätigte Abholtermine
+- und unbestätigte Abholtermine
+- Termine zu Treffen und Hygieneschulungen sowie die neuesten Pinnwand- und Forenbeiträge.
 - Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite, neue Betriebe werden dir nur per Glocke angezeigt. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
 - Einige Handy-Browser unterstützen Push-Benachrichtigungen, die du in den Profileinstellungen aktivieren kannst. So erhältst du Nachrichten sofort und kannst spontan einspringen.
 - Arbeitsgruppen (AG) sind Gruppen von Personen, die ein bestimmtes Thema rund um foodsharing bearbeiten.
