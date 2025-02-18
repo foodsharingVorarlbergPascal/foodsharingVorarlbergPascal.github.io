@@ -362,8 +362,8 @@ Die Plattform zeigt nur, was für die dich relevant und ist.
 ![Hier sollte ein Bild sein](/img/bar.svg)
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
 - Bezirke
-- In Arbeitsgruppen (AG) werden bestimmte Themen rund um foodsharing bearbeiten.
-- Betriebe
+- Arbeitsgruppen (AG)s sind Teams, die sich mit bestimmten foodsharing-relevanten Themen beschäftigen und diese voran bringen.
+- Betriebsteams / Betriebe in denen Kooperationen und Abholunge organisiert werden
 - Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel.
 - [Karte](https://foodsharing.at/karte) mit den Betrieben Fairteilern und offenen Kühlschränken
 - Hife: [Link zum Wiki](https://wiki.foodsharing.de/)
@@ -375,40 +375,42 @@ Die Plattform zeigt nur, was für die dich relevant und ist.
 **Die Oberste Leise am Smartphone**
 ![Hier sollte ein Bild sein](/img/mobileBar.jpg)
 - Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
-- Betriebe
-- Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel.
-- Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
+- Betriebsteams
+- Essenskörbe
+- Nachrichten
 - (1) Menü, das weitere Ziele anbietet
-
 
 **Das Menü nur am Smartphone**
 ![Hier sollte ein Bild sein](/img/mobileMenu.jpg)
 
-**Dashboard**
+**Dashboard, alle aktuellen, persönlichen Informationen**
 ![Hier sollte ein Bild sein](/img/Dashboard.svg)
 
-- Auf dem Dashboard siehst du alle aktuellen, persönlichen Informationen
+- Einladungen z.B. Treffen, Hygieneschulungen ... Achtung, die Einladungen verschwinden vom Dashboard wenn Du "Kann nicht" auswählst.
+  - sie können von personen der entsprechenden AG erstellt werden.
+  - Es gibt die Möglichkeit, Videokonferenzen zu organisieren die direkt über die Webseite abgehalten werden können (manchmal auch BBB oder Big Blue Button genannt).
+- Abstimmungen / Umfragen diese werden von Abstimmungs-AGs erstellt.
 - (1) Von Betriebsverantwortlichen Bestätigte Abholtermine
 - (2) und unbestätigte Abholtermine
-- Termine z.B. Treffen, Hygieneschulungen ...
 - Die neuesten Pinnwand- und Forenbeiträge.
+
+**über die Webseite hinaus**
 - Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
 - Einige Handy-Browser unterstützen Push-Benachrichtigungen, die du in den Profileinstellungen aktivieren kannst. So erhältst du Nachrichten sofort und kannst spontan einspringen.
-- Abstimmungen/Umfragen können von der Abstimmungs-AG erstellt werden, an denen alle teilnehmen können.
-- Termine können von den BOTs erstellt werden, bei denen alle eine Zu- oder Absage machen können.
-- Für AGs und Bezirke gibt es die Möglichkeit, Videokonferenzen zu organisieren (manchmal auch BBB oder Big Blue Button genannt).
-- Wir treffen uns etwa alle zwei Monate persönlich, um uns auszutauschen. Die Protokolle zu diesen Treffen findest du im [Vorarlberg Forum](https://foodsharing.at/region%3Fbid=134&sub=forum).
 - Auf der Plattform können Foodsavende eine digitale Vertrauensbanane an andere vergeben. Sie symbolisiert Verlässlichkeit, Pünktlichkeit, Vertrauenswürdigkeit und angemessenes Verhalten. Wer mehrfach ausgezeichnet wurde, hat bessere Chancen, in ein Betriebsteam oder eine AG aufgenommen zu werden. Da sie nicht ohne Weiteres gelöscht werden kann, sollte sie gut durchdacht sein.
 
 ## 🌱 Betriebsteam und Abholungen
-
-- In den Betriebsteams werden die Kooperationen mit Betrieben geregelt. Dort steht, wie die Abholung abläuft und was du zur Kooperation wissen musst.
-- Wenn du auf eines der Fragezeichen klickst, kannst du die Abholung übernehmen. Zuerst wird der Termin rot markiert, nach einer Bestätigung durch einen BV wird er grün. Du bist jedoch für den Termin verantwortlich, es sei denn, er wird abgelehnt.
+In den Betriebsteams werden die Kooperationen mit Betrieben geregelt. Dort steht, wie die Abholung abläuft und was du zur Kooperation wissen musst.
+![Hier sollte ein Bild sein](/img/Betriebsseite.jpg)
+- (1) Liste aller Personen, die im Team Helfen mit Telefonnummer. Vorgehoben sind Betriebsverantwortliche.
+- (2) Unbelegter Abholtermin / Slot. Wenn du auf das Fragezeichen klickst, kannst du die Abholung übernehmen.
+- (3) Slot in der sich die Person mit dem Profilbild eingetragen hat und die Verantwortung und die Abholung übernimmt, vom BV bestätigt
+- (4) ... vom BV nicht bestätigt, die Person ist jedoch für den Termin verantwortlich, es sei denn, die Abholung wird vom BV abgelehnt.
 - Für alle Betriebe, in denen Personen oft Lebensmittel retten, gilt eine Fairnessregel. Beispiel:  
   Dies ist ein Rosinenbetrieb. Zusätzlich zu den Betriebsregeln gilt folgende betriebsübergreifende Fairnessregel für Abholungen:  
   Innerhalb von jeweils 14 Tagen vor und nach der gewünschten Abholung dürfen insgesamt nicht mehr als zwei Abholungen bei Rosinenbetrieben eingetragen sein. Pro Tag darf höchstens einmal bei Rosinenbetrieben abgeholt werden. 48 Stunden vor der Abholung bleibt diese Regel unberücksichtigt.
 - Wenn du einen Termin absagen musst, klicke auf dein Profilbild beim entsprechenden Termin. Wähle anschließend "Team kontaktieren", wenn du niemandem den Termin persönlich übergeben hast.
-- Mit dem Teamchat erreichst du alle Personen, die bei diesem Betrieb abholen möchten.
+- Mit dem Teamchat erreichst du alle Personen, die bei diesem Betrieb abholen möchten und nicht auf der Springerliste stehen.
 - In der Mitgliederliste siehst du auch die Telefonnummern, die du im Notfall nutzen kannst, wenn du Ersatz suchen musst.
 - Auf deinem eigenen Profil werden dir mögliche Abholtermine aller deiner Betriebe angezeigt: dein Profil -> Abholungen -> Abholoptionen.
 
