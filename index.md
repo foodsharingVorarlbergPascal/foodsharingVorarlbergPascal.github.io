@@ -359,7 +359,7 @@ Wenn du einen Ausweis hast und an einer der Online-Hygieneschulungen in Österre
 Die Plattform zeigt nur, was für die dich relevant und ist.   
 **Die Oberste Leise** wird immer angezeigt
 
-![Hier sollte ein Bild sein](/top.svg)
+![Hier sollte ein Bild sein](/img/bar.svg)
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
 - Bezirke
 - In Arbeitsgruppen (AG) werden bestimmte Themen rund um foodsharing bearbeiten.
@@ -372,8 +372,20 @@ Die Plattform zeigt nur, was für die dich relevant und ist.
 - (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen). Z.B. neue Betriebe in deinen Bezirken
 - (5) Menü mit e-Mails und Profil und Einstellungen
 
+**Die Oberste Leise am Smartphone**
+![Hier sollte ein Bild sein](/img/mobileBar.jpg)
+- Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
+- Betriebe
+- Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel.
+- Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
+- (1) Menü, das weitere Ziele anbietet
+
+
+**Das Menü nur am Smartphone**
+![Hier sollte ein Bild sein](/img/mobileMenu.jpg)
+
 **Dashboard**
-![Hier sollte ein Bild sein](/Dashboard.svg)
+![Hier sollte ein Bild sein](/img/Dashboard.svg)
 
 - Auf dem Dashboard siehst du alle aktuellen, persönlichen Informationen
 - (1) Von Betriebsverantwortlichen Bestätigte Abholtermine
