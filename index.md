@@ -369,8 +369,10 @@ Die Plattform zeigt nur, was für die dich relevant und ist.
 - Hife: [Link zum Wiki](https://wiki.foodsharing.de/)
 - (2) Suche
 - (3) Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
-- (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen). Z.B. neue Betriebe in deinen Bezirken
-- (5) Menü mit e-Mails und Profil und Einstellungen
+- (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen). Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Nachrichten.
+![Hier sollte ein Bild sein](/img/glocke.jpg)
+- (5) Menü mit folgenden Unterseiten
+- ![Hier sollte ein Bild sein](/img/menu.jpg)
 
 **Die Oberste Leise am Smartphone**
 ![Hier sollte ein Bild sein](/img/mobileBar.jpg)
