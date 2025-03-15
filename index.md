@@ -354,19 +354,19 @@ Wenn du einen Ausweis hast und an einer der Online-Hygieneschulungen in Österre
 - Stelle Anfragen in den Betrieben und Bezirken, in denen du helfen möchtest. Der Status (Farbe) des Betriebs oder dessen Standort spielt für die Anfrage keine Rolle.
 - Du kannst dich selbstständig in Termine eintragen und die Abholung durchführen.
 
-# 🌱 Kleiner Webseiten-Guide
+# 🌱 foodsharing Plattform
 
-Die Plattform zeigt nur, was für die dich relevant und ist.   
-**Die Oberste Leise** wird immer angezeigt
+Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.network. Sie zeigt nur, was für dich relevant und ist.   
+**Die Oberste Leiste** wird immer angezeigt
 
 ![Hier sollte ein Bild sein](/img/bar.svg)
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
 - Bezirke
 - Arbeitsgruppen (AG)s sind Teams, die sich mit bestimmten foodsharing-relevanten Themen beschäftigen und diese voran bringen.
-- Betriebsteams / Betriebe in denen Kooperationen und Abholunge organisiert werden
+- Betriebsteams / Betriebe in denen Kooperationen und Abholungen organisiert werden
 - Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel.
 - [Karte](https://foodsharing.at/karte) mit den Betrieben Fairteilern und offenen Kühlschränken
-- Hife: [Link zum Wiki](https://wiki.foodsharing.de/)
+- Hilfe: [Link zum Wiki](https://wiki.foodsharing.de/)
 - (2) Suche
 - (3) Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
 - (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen). Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Nachrichten.
@@ -385,11 +385,11 @@ Die Plattform zeigt nur, was für die dich relevant und ist.
 **Das Menü nur am Smartphone**
 ![Hier sollte ein Bild sein](/img/mobileMenu.jpg)
 
-**Dashboard, alle aktuellen, persönlichen Informationen**
+**Dashboard: alle aktuellen, persönlichen Informationen**
 ![Hier sollte ein Bild sein](/img/Dashboard.svg)
 
-- Einladungen z.B. Treffen, Hygieneschulungen ... Achtung, die Einladungen verschwinden vom Dashboard wenn Du "Kann nicht" auswählst.
-  - sie können von personen der entsprechenden AG erstellt werden.
+- Einladungen z.B. Treffen, Hygieneschulungen ... Achtung, die Einladungen verschwinden vom Dashboard wenn du "Kann nicht" auswählst.
+  - sie können von Personen der entsprechenden AG erstellt werden.
   - Es gibt die Möglichkeit, Videokonferenzen zu organisieren die direkt über die Webseite abgehalten werden können (manchmal auch BBB oder Big Blue Button genannt).
 - Abstimmungen / Umfragen diese werden von Abstimmungs-AGs erstellt.
 - (1) Von Betriebsverantwortlichen Bestätigte Abholtermine
