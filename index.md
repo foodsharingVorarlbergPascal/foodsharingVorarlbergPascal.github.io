@@ -336,7 +336,7 @@ Eine:r aus dem Begrüßungsteam vermittelt dir Termine für zwei Einführungsabh
 - Frage eine:n aus dem Begrüßungsteam per Nachricht nach den Terminen. Nenne dabei, an welchen Orten/Zeitpunkten du am besten zur EA kommen kannst, z.B. Bregenz, Haselstauden (am Morgen).
 - In Vorarlberg machen wir zwei klassische Abholungen bei zwei verschiedenen Betrieben, bei denen wir Lebensmittel retten (du bekommst die Hälfte). Dafür benötigst du maximal fünf Taschen oder Kisten für den Transport. Eine Abholung dauert ca. 15 Minuten.
 - Eine der Einführungen ist die Hygieneschulung. Mehr dazu siehe oben.
-- Wenn du alle vier Einführungen gemacht hast, kannst du deinen Ausweis unter "Profil-Einstellungen" -> "Ausweis" (links) [oder direkt hier](https://github.com/%3Fpage=settings&sub=passport) als PDF herunterladen, um ihn auf dem Handy vorzuzeigen. Möchtest du diesen als Karte, kontaktiere bitte eine:n BOT.
+- Wenn du alle vier Einführungen gemacht hast, kannst du deinen Ausweis unter "Profil-Einstellungen" -> "Ausweis" (links) [oder direkt hier](https://foodsharing.at/user/current/settings?sub=passport) als PDF herunterladen, um ihn auf dem Handy vorzuzeigen. Möchtest du diesen als Karte, kontaktiere bitte eine:n BOT.
 - Bitte mache deine Einführungen in den nächsten sechs Monaten, da sie danach verfallen. Dann musst du bei einer Person des Begrüßungsteams um Wiederaufnahme des Einführungsprozesses bitten.
 
 -----------
@@ -361,7 +361,7 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 
 ![Hier sollte ein Bild sein](/img/bar.svg)
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
-- Bezirke
+- Bezirke  
 - Arbeitsgruppen (AG)s sind Teams, die sich mit bestimmten foodsharing-relevanten Themen beschäftigen und diese voran bringen.
 - Betriebsteams / Betriebe in denen Kooperationen und Abholungen organisiert werden
 - Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel.
@@ -374,7 +374,7 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 - (5) Menü mit folgenden Unterseiten
 - ![Hier sollte ein Bild sein](/img/menu.jpg)
 
-**Die Oberste Leise am Smartphone**
+**Die Oberste Leise am Smartphone**  
 ![Hier sollte ein Bild sein](/img/mobileBar.jpg)
 - Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
 - Betriebsteams
@@ -382,10 +382,10 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 - Nachrichten
 - (1) Menü, das weitere Ziele anbietet
 
-**Das Menü nur am Smartphone**
+**Das Menü nur am Smartphone**  
 ![Hier sollte ein Bild sein](/img/mobileMenu.jpg)
 
-**Dashboard: alle aktuellen, persönlichen Informationen**
+**Dashboard: alle aktuellen, persönlichen Informationen**  
 ![Hier sollte ein Bild sein](/img/Dashboard.svg)
 
 - Einladungen z.B. Treffen, Hygieneschulungen ... Achtung, die Einladungen verschwinden vom Dashboard wenn du "Kann nicht" auswählst.
@@ -395,6 +395,9 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 - (1) Von Betriebsverantwortlichen Bestätigte Abholtermine
 - (2) und unbestätigte Abholtermine
 - Die neuesten Pinnwand- und Forenbeiträge.
+
+**Bezirke**  
+![Hier sollte ein Bild sein](/img/BezirkMenu.jpg)
 
 **über die Webseite hinaus**
 - Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
