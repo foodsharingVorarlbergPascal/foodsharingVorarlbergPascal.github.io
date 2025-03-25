@@ -398,6 +398,8 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 
 **Bezirke**  
 ![Hier sollte ein Bild sein](/img/BezirkMenu.jpg)
+Hier siehst du alle Bezirke aufgelistet, in denen du in Betrieben eingeschrieben bist. Ausgeklappt findest du zu jedem Bezirk folgendes:
+
 
 **über die Webseite hinaus**
 - Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
