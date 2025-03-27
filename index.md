@@ -360,6 +360,7 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 **Die Oberste Leiste** wird immer angezeigt
 
 ![Hier sollte ein Bild sein](/img/bar.svg)
+Eine Ausführlichere Beschreibung ist weiter unten zu finden.
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
 - Bezirke  
 - Arbeitsgruppen (AG)s sind Teams, die sich mit bestimmten foodsharing-relevanten Themen beschäftigen und diese voran bringen.
@@ -369,9 +370,14 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 - Hilfe: [Link zum Wiki](https://wiki.foodsharing.de/)
 - (2) Suche
 - (3) Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
-- (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen). Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Nachrichten.
+- (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen).
+- (5) Menü mit weiteren Unterseiten
+
+**Glocke**
+Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Nachrichten.
 ![Hier sollte ein Bild sein](/img/glocke.jpg)
-- (5) Menü mit folgenden Unterseiten
+
+**Menü**
 - ![Hier sollte ein Bild sein](/img/menu.jpg)
 
 **Die Oberste Leise am Smartphone**  
@@ -399,7 +405,18 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 **Bezirke**  
 ![Hier sollte ein Bild sein](/img/BezirkMenu.jpg)
 Hier siehst du alle Bezirke aufgelistet, in denen du in Betrieben eingeschrieben bist. Ausgeklappt findest du zu jedem Bezirk folgendes:
-
+* Forum
+  Hier siehst du, wer die Botschaftenden des ausgewählten Bezirkes sind. Wichtige Themen werden hier diskutiert. Bringe auch gerne selbst Themen ein.
+* Betriebe
+* Arbeitsgruppen
+* Termine
+* Fairteiler
+  Hier werden dir alle Fairteiler und Abgabestellen im Bezirk angezeigt, wo du Lebensmittel abgeben und tauschen kannst.
+* Abstimmungen
+* Mitglieder
+* Optionen
+* Statistik
+* Videokonferenz
 
 **über die Webseite hinaus**
 - Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
