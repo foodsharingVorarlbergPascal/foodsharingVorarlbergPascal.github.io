@@ -408,15 +408,22 @@ Hier siehst du alle Bezirke aufgelistet, in denen du in Betrieben eingeschrieben
 * Forum
   Hier siehst du, wer die Botschaftenden des ausgewählten Bezirkes sind. Wichtige Themen werden hier diskutiert. Bringe auch gerne selbst Themen ein.
 * Betriebe
+  Hier bekommst du alle Betriebe des Bezirks mit zusätzlichen Informationen gelistet
 * Arbeitsgruppen
+  Hier findest du alle Arbeitsgruppen (AGs) des Bezirkes.
 * Termine
+  Hier werden dir Online und Offline-Termine (Veranstaltungen) des Bezirks, Bundesland, Land, Europa oder Arbeitsgruppen angezeigt. Z.B. Bezirkstreffen.
 * Fairteiler
   Hier werden dir alle Fairteiler und Abgabestellen im Bezirk angezeigt, wo du Lebensmittel abgeben und tauschen kannst.
 * Abstimmungen
 * Mitglieder
+  Hier sind alle Foodsaver des Bezirkes aufgelistet.
 * Optionen
 * Statistik
+  Hier findest du Zahlen rund um den Bezirk.
 * Videokonferenz
+* einen Bezirk beitreten
+  Mit der Funkiton kannst du manuell einem Bezirk beitreten.
 
 **über die Webseite hinaus**
 - Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
