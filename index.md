@@ -356,29 +356,23 @@ Wenn du einen Ausweis hast und an einer der Online-Hygieneschulungen in Österre
 # 🌱 foodsharing Plattform
 
 Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.network. Sie zeigt nur, was für dich relevant und ist.   
-**Die Oberste Leiste** wird immer angezeigt
+## Die Oberste Leiste
+Diese wird immer angezeigt
 
 ![Hier sollte ein Bild sein](/img/bar.svg)
 Ausführlichere Beschreibunguen zu den Punkten sind weiter unten zu finden.
-- (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
+- (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard). (mehr unten)
   Dort sind alle zur Zeit für dich relevanten Informationen zusammengefasst
-- Bezirke  
+- Bezirke  (mehr unten)
 - Arbeitsgruppen (AG)s sind Teams, die sich mit bestimmten foodsharing-relevanten Themen beschäftigen und diese voran bringen.
-- Betriebsteams / Betriebe in denen Kooperationen und Abholungen organisiert werden
-- Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel.
-- [Karte](https://foodsharing.at/karte) mit den Betrieben Fairteilern und offenen Kühlschränken
+- Betriebe in denen Kooperationen und Abholungen organisiert werden (mehr unten)
+- Essenskörbe sind Online-Kleinanzeigen, über die man Lebensmittel verschenken kann. Fotografiere und beschreibe die Lebensmittel. (mehr unten)
+- [Karte](https://foodsharing.at/karte) mit den Betrieben Fairteilern und offenen Kühlschränken. (mehr unten)
 - Hilfe: [Link zum Wiki](https://wiki.foodsharing.de/)
 - (2) Suche
 - (3) Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
 - (4) Glocke: neue relevante Informationen (Glocke mit Anzahl der neuen Informationen).
 - (5) Menü mit weiteren Unterseiten
-
-**Glocke**
-Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Nachrichten.
-![Hier sollte ein Bild sein](/img/glocke.jpg)
-
-**Menü**
-- ![Hier sollte ein Bild sein](/img/menu.jpg)
 
 **Die Oberste Leise am Smartphone**  
 ![Hier sollte ein Bild sein](/img/mobileBar.jpg)
@@ -388,10 +382,8 @@ Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Na
 - Nachrichten
 - (1) Menü, das weitere Ziele anbietet
 
-**Das Menü nur am Smartphone**  
-![Hier sollte ein Bild sein](/img/mobileMenu.jpg)
-
-**Dashboard: alle aktuellen, persönlichen Informationen**  
+### Dashboard: alle aktuellen
+persönlichen Informationen
 ![Hier sollte ein Bild sein](/img/Dashboard.svg)
 
 - Einladungen z.B. Treffen, Hygieneschulungen ... Achtung, die Einladungen verschwinden vom Dashboard wenn du "Kann nicht" auswählst.
@@ -402,7 +394,7 @@ Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Na
 - (2) und unbestätigte Abholtermine
 - Die neuesten Pinnwand- und Forenbeiträge.
 
-**Bezirke**  
+### Bezirke
 ![Hier sollte ein Bild sein](/img/BezirkMenu.jpg)
 Hier siehst du alle Bezirke aufgelistet, in denen du in Betrieben eingeschrieben bist. Ausgeklappt findest du zu jedem Bezirk folgendes:
 * Forum
@@ -425,10 +417,29 @@ Hier siehst du alle Bezirke aufgelistet, in denen du in Betrieben eingeschrieben
 * einen Bezirk beitreten
   Mit der Funkiton kannst du manuell einem Bezirk beitreten.
 
+### [Karte](https://foodsharing.at/karte)
+### Hilfe: [Link zum Wiki](https://wiki.foodsharing.de/)
+### (2) Suche
+### (3) Team- und persönlichen [Nachrichten](https://foodsharing.at/msg)
+
+### Glocke
+Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Nachrichten.
+![Hier sollte ein Bild sein](/img/glocke.jpg)
+
+### Menü
+- ![Hier sollte ein Bild sein](/img/menu.jpg)
+
+### Das Menü nur am Smartphone 
+![Hier sollte ein Bild sein](/img/mobileMenu.jpg)
+
 ## 🌱 Betriebsteam und Abholungen
 In den Betriebsteams werden die Kooperationen mit Betrieben geregelt. Dort steht, wie die Abholung abläuft und was du zur Kooperation wissen musst.
 ![Hier sollte ein Bild sein](/img/Betriebsseite.jpg)
-- (1) Liste aller Personen, die im Team Helfen mit Telefonnummer. Vorgehoben sind Betriebsverantwortliche.
+- (1) Liste aller Personen, die im Team Helfen mit Telefonnummer. Die Nummer zeiht die Anzahl der Abholungen bei diesem Betrieb an. Die beim Profilbild der Person zeigt, wie oft sie bei diesem Betrieb bereits abgeholt hat. Am Bild erkennt man zusätzlich den Status in foodsharing der Person  
+    - ![Hier sollte ein Bild sein](/img/AbholerMitMutze.jpg) Die Persone ist derzeit nicht verfügbar
+    - ![Hier sollte ein Bild sein](/img/bvMitMutze.jpg) Die Person hat den BV Status und ist derzeit nicht verfügbar
+    - ![Hier sollte ein Bild sein](/img/bvbv.jpg) Die Person ist BV dieses Betriebs
+    - ![Hier sollte ein Bild sein](/img/unverifizierterSpringer.jpg) Die Person ist auf der Springerliste und nicht verifiziert, hat also keinen Ausweis und somit keine Abholberechtigung.
 - (2) Unbelegter Abholtermin / Slot. Wenn du auf das Fragezeichen klickst, kannst du die Abholung übernehmen.
 - (3) Slot in der sich die Person mit dem Profilbild eingetragen hat und die Verantwortung und die Abholung übernimmt, vom BV bestätigt
 - (4) ... vom BV nicht bestätigt, die Person ist jedoch für den Termin verantwortlich, es sei denn, die Abholung wird vom BV abgelehnt.
@@ -436,9 +447,10 @@ In den Betriebsteams werden die Kooperationen mit Betrieben geregelt. Dort steht
   Dies ist ein Rosinenbetrieb. Zusätzlich zu den Betriebsregeln gilt folgende betriebsübergreifende Fairnessregel für Abholungen:  
   Innerhalb von jeweils 14 Tagen vor und nach der gewünschten Abholung dürfen insgesamt nicht mehr als zwei Abholungen bei Rosinenbetrieben eingetragen sein. Pro Tag darf höchstens einmal bei Rosinenbetrieben abgeholt werden. 48 Stunden vor der Abholung bleibt diese Regel unberücksichtigt.
 - Wenn du einen Termin absagen musst, klicke auf dein Profilbild beim entsprechenden Termin. Wähle anschließend "Team kontaktieren", wenn du niemandem den Termin persönlich übergeben hast.
-- Mit dem Teamchat erreichst du alle Personen, die bei diesem Betrieb abholen möchten und nicht auf der Springerliste stehen.
+- Mit dem Teamchat erreichst du alle Personen, z.B. wenn du Ersatz für eine Abholung suchts, die bei diesem Betrieb abholen möchten und nicht auf der Springerliste stehen.
 - In der Mitgliederliste siehst du auch die Telefonnummern, die du im Notfall nutzen kannst, wenn du Ersatz suchen musst.
 - Auf deinem eigenen Profil werden dir mögliche Abholtermine aller deiner Betriebe angezeigt: dein Profil -> Abholungen -> Abholoptionen.
+
 
 -----------
 
