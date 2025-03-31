@@ -2,7 +2,6 @@
 
 Wir setzen uns für mehr Wertschätzung von Lebensmitteln und gegen  
 Lebensmittelverschwendung ein.
-/
 
 Als Mitglied der Initiative foodsharing.at in Vorarlberg hast du die Möglichkeit, bei kooperierenden Betrieben unverkäufliche Lebensmittel abzuholen und diese zur festgelegten Zeit abzuholen. Was und wie viel das ist, ist unbekannt. Meistens ist es aber recht viel, das von geschickten Fahrradfahrern bei Kooperationen in Vorarlberg autofrei abgeholt werden kann. Wie du die Lebensmittel verwendest, ist dir überlassen, solange du sie nicht verkaufst oder eine Tauschware erwartest und dafür sorgst, dass sie von Menschen gegessen werden. Wer Mitglied werden möchte, muss vier Einführungen und ein Quiz bestehen. Danach kannst du selbst entscheiden, wann und wie oft du Abholungen durchführen möchtest. 
 
@@ -360,8 +359,9 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 **Die Oberste Leiste** wird immer angezeigt
 
 ![Hier sollte ein Bild sein](/img/bar.svg)
-Eine Ausführlichere Beschreibung ist weiter unten zu finden.
+Ausführlichere Beschreibunguen zu den Punkten sind weiter unten zu finden.
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
+  Dort sind alle zur Zeit für dich relevanten Informationen zusammengefasst
 - Bezirke  
 - Arbeitsgruppen (AG)s sind Teams, die sich mit bestimmten foodsharing-relevanten Themen beschäftigen und diese voran bringen.
 - Betriebsteams / Betriebe in denen Kooperationen und Abholungen organisiert werden
@@ -425,11 +425,6 @@ Hier siehst du alle Bezirke aufgelistet, in denen du in Betrieben eingeschrieben
 * einen Bezirk beitreten
   Mit der Funkiton kannst du manuell einem Bezirk beitreten.
 
-**über die Webseite hinaus**
-- Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
-- Einige Handy-Browser unterstützen Push-Benachrichtigungen, die du in den Profileinstellungen aktivieren kannst. So erhältst du Nachrichten sofort und kannst spontan einspringen.
-- Auf der Plattform können Foodsavende eine digitale Vertrauensbanane an andere vergeben. Sie symbolisiert Verlässlichkeit, Pünktlichkeit, Vertrauenswürdigkeit und angemessenes Verhalten. Wer mehrfach ausgezeichnet wurde, hat bessere Chancen, in ein Betriebsteam oder eine AG aufgenommen zu werden. Da sie nicht ohne Weiteres gelöscht werden kann, sollte sie gut durchdacht sein.
-
 ## 🌱 Betriebsteam und Abholungen
 In den Betriebsteams werden die Kooperationen mit Betrieben geregelt. Dort steht, wie die Abholung abläuft und was du zur Kooperation wissen musst.
 ![Hier sollte ein Bild sein](/img/Betriebsseite.jpg)
@@ -450,6 +445,12 @@ In den Betriebsteams werden die Kooperationen mit Betrieben geregelt. Dort steht
 Frage: **B** Bei Betrieben ohne Fairnessregel darf ich theoretisch so viele Termine für mich reservieren, wie ich will.
 
 -----------
+
+## 🌱 über die Webseite hinaus
+- Achte auf deine E-Mails, da Chatnachrichten üblicherweise per E-Mail weitergeleitet werden. Schau regelmäßig auf die Webseite. Für schnellere Kommunikation kannst du die Android-App vom [PlayStore](https://play.google.com/store/search?q=foodsharing&c=apps) oder [F-Droid](https://f-droid.org/packages/de.foodsharing.app/) verwenden. Die App bietet jedoch nur die Möglichkeit zur Kommunikation, eine Übersicht über Essenskörbe und Abgabestellen sowie eine Liste deiner Termine.
+- Einige Handy-Browser unterstützen Push-Benachrichtigungen, die du in den Profileinstellungen aktivieren kannst. So erhältst du Nachrichten sofort und kannst spontan einspringen.
+- Auf der Plattform können Foodsavende eine digitale Vertrauensbanane an andere vergeben. Sie symbolisiert Verlässlichkeit, Pünktlichkeit, Vertrauenswürdigkeit und angemessenes Verhalten. Wer mehrfach ausgezeichnet wurde, hat bessere Chancen, in ein Betriebsteam oder eine AG aufgenommen zu werden. Da sie nicht ohne Weiteres gelöscht werden kann, sollte sie gut durchdacht sein.
+
 
 # 🌱 Kooperationen
 
