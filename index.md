@@ -360,7 +360,7 @@ Die Plattform findest du unter foodsharing.de, foodsharing.at und foodsharing.ne
 Diese wird immer angezeigt
 
 ![Hier sollte ein Bild sein](/img/bar.svg)
-Ausführlichere Beschreibunguen zu den Punkten sind weiter unten zu finden.
+Ausführlichere Beschreibunguen zu den Punkten sind weiter unten zu finden.  
 - (1) Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard). (mehr unten)
   Dort sind alle zur Zeit für dich relevanten Informationen zusammengefasst
 - Bezirke  (mehr unten)
@@ -375,7 +375,7 @@ Ausführlichere Beschreibunguen zu den Punkten sind weiter unten zu finden.
 - (5) Menü mit weiteren Unterseiten
 
 **Die Oberste Leise am Smartphone**  
-![Hier sollte ein Bild sein](/img/mobileBar.jpg)
+<img src="/img/mobileBar.jpg" alt="Hier sollte ein Bild sein" width="40%" />  
 - Mit einem Klick auf das Logo gelangst du zum [Dashboard](https://foodsharing.at/dashboard)
 - Betriebsteams
 - Essenskörbe
@@ -395,7 +395,7 @@ persönlichen Informationen
 - Die neuesten Pinnwand- und Forenbeiträge.
 
 ### Bezirke
-![Hier sollte ein Bild sein](/img/BezirkMenu.jpg)
+<img src="//img/BezirkMenu.jpg" alt="Hier sollte ein Bild sein" width="40%" />  
 Hier siehst du alle Bezirke aufgelistet, in denen du in Betrieben eingeschrieben bist. Ausgeklappt findest du zu jedem Bezirk folgendes:
 * Forum
   Hier siehst du, wer die Botschaftenden des ausgewählten Bezirkes sind. Wichtige Themen werden hier diskutiert. Bringe auch gerne selbst Themen ein.
@@ -424,22 +424,22 @@ Hier siehst du alle Bezirke aufgelistet, in denen du in Betrieben eingeschrieben
 
 ### Glocke
 Hier mit verschiedenen Beispielen. Gelb hinterlegt, sind als gelesen markirte Nachrichten.
-![Hier sollte ein Bild sein](/img/glocke.jpg)
+<img src="/img/glocke.jpg" alt="Hier sollte ein Bild sein" width="40%" />  
 
 ### Menü
-- ![Hier sollte ein Bild sein](/img/menu.jpg)
+<img src="/img/menu.jpg" alt="Hier sollte ein Bild sein" width="30%" />  
 
 ### Das Menü nur am Smartphone 
-![Hier sollte ein Bild sein](/img/mobileMenu.jpg)
+<img src="/img/mobileMenu.jpg" alt="Hier sollte ein Bild sein" width="40%" />  
 
 ## 🌱 Betriebsteam und Abholungen
 In den Betriebsteams werden die Kooperationen mit Betrieben geregelt. Dort steht, wie die Abholung abläuft und was du zur Kooperation wissen musst.
 ![Hier sollte ein Bild sein](/img/Betriebsseite.jpg)
 - (1) Liste aller Personen, die im Team Helfen mit Telefonnummer. Die Nummer zeiht die Anzahl der Abholungen bei diesem Betrieb an. Die beim Profilbild der Person zeigt, wie oft sie bei diesem Betrieb bereits abgeholt hat. Am Bild erkennt man zusätzlich den Status in foodsharing der Person  
-    - ![Hier sollte ein Bild sein](/img/AbholerMitMutze.jpg) Die Persone ist derzeit nicht verfügbar
-    - ![Hier sollte ein Bild sein](/img/bvMitMutze.jpg) Die Person hat den BV Status und ist derzeit nicht verfügbar
-    - ![Hier sollte ein Bild sein](/img/bvbv.jpg) Die Person ist BV dieses Betriebs
-    - ![Hier sollte ein Bild sein](/img/unverifizierterSpringer.jpg) Die Person ist auf der Springerliste und nicht verifiziert, hat also keinen Ausweis und somit keine Abholberechtigung.
+    - <img src="/img/AbholerMitMutze.jpg" alt="Hier sollte ein Bild sein" width="10%" />   Die Persone ist derzeit nicht verfügbar
+    - <img src="/img/bvMitMutze.jpg" alt="Hier sollte ein Bild sein" width="10%" /> Die Person hat den BV Status und ist derzeit nicht verfügbar
+    - <img src="/img/bvbv.jpg" alt="Hier sollte ein Bild sein" width="10%" /> Die Person ist BV dieses Betriebs
+    - <img src="/img/unverifizierterSpringer.jpg" alt="Hier sollte ein Bild sein" width="10%" /> Die Person ist auf der Springerliste und nicht verifiziert, hat also keinen Ausweis und somit keine Abholberechtigung.
 - (2) Unbelegter Abholtermin / Slot. Wenn du auf das Fragezeichen klickst, kannst du die Abholung übernehmen.
 - (3) Slot in der sich die Person mit dem Profilbild eingetragen hat und die Verantwortung und die Abholung übernimmt, vom BV bestätigt
 - (4) ... vom BV nicht bestätigt, die Person ist jedoch für den Termin verantwortlich, es sei denn, die Abholung wird vom BV abgelehnt.
